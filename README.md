@@ -1,4 +1,4 @@
-# 🏏 Virat Kohli: A Data-Driven Century Analysis (Power BI Dashboard)
+# 🏏 Virat Kohli: A Data-Driven Century Analysis
 
 This project is a comprehensive **Power BI dashboard** that analyzes Virat Kohli’s international centuries across formats, countries, venues, and match conditions.  
 The goal of this analysis is to demonstrate strong skills in **data cleaning, transformation, DAX modeling, interactive visual design, and data storytelling**.
